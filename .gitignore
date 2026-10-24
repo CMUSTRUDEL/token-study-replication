@@ -1,0 +1,7 @@
+# data and outputs are never committed
+data/
+out/
+figs/
+__pycache__/
+*.pyc
+.DS_Store
